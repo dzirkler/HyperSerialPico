@@ -1,3 +1,7 @@
+##########################################
+##  UPDATED FOR DAMON'S PINS            ##
+##########################################
+
 # User configuration section starts here
 
 # Some boards, such as the first Adafruit revisions, may have trouble booting properly
